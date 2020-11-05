@@ -4,7 +4,7 @@ A. Cinemachine
 
 Unity Companion Cinemachine Code License 1.0
 
-Copyright ï¿½ 2017 Unity Technologies ApS
+Copyright © 2017 Unity Technologies ApS
 
 
 
@@ -17,7 +17,9 @@ This license is also available with a FAQ at:
 http://scripts.sil.org/OFL
 
 
+
 C. Emoji One
 
+Premium License Agreement Version 1.6
 
-Copyright ï¿½ EmojiOne Inc. 2018
+Copyright © EmojiOne Inc. 2018
